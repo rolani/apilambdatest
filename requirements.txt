@@ -1,0 +1,1 @@
+svcred @ git+https://${GIT_USERNAME}:${GIT_PASSWORD}@bitbucket.org/SociVolta/svcred.git@master
